@@ -1,9 +1,9 @@
 === Arty Popup ===
 Contributors: EnigmaWeb
-Donate link: http://enigmaweb.com.au
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CEJ9HFWJ94BG4
 Tags: popup, pop up, pop-up, lightbox, thickbox, lightbox popup
 Requires at least: 3.1
-Tested up to: 3.4.1
+Tested up to: 3.6
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -53,7 +53,7 @@ The easiest way is actually via Contact Form 7. In the form field, put your form
 
 = Does this work on all browsers? =
 
-Yes. Its designed to work on all major browsers, both PC & Mac, and on mobile devices including iPhone/iPad.
+Yes. Its designed to work on all major browsers, both PC & Mac, and on mobile devices including iPhone/iPad. That said, it's not yet responsive so please be aware of that.
 
 = Where can I get support for this plugin? =
 
