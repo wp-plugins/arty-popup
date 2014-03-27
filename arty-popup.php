@@ -2,11 +2,11 @@
 
 /*
 Plugin Name: Arty Popup
-Plugin URI: http://www.enigmaweb.com.au
+Plugin URI: http://www.wordpress.org/plugins/arty-popup
 Description: Use Arty Popup to create a designer popup with optional form integration.
-Version: 1.0
-Author: Enigma Digital
-Author URI: http://www.enigmaweb.com.au
+Version: 1.1
+Author: Enigma Plugins
+Author URI: http://www.enigmaplugins.com
 */
 
 // default settings
@@ -139,7 +139,7 @@ function arty_header() {
 		
 		var c_name	=	'arty_popup_cookie';
 		var value	=	'arty_popup_cookie1';
-		var exdays	=	<?php echo $options['popup_cookie_time']; ?>;
+		var exdays	=	<?php echo '$options["popup_cookie_time"]'; ?>;
 		
 		 var exdate=new Date();
 		exdate.setDate(exdate.getDate() + exdays);

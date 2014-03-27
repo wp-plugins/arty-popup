@@ -3,7 +3,7 @@ Contributors: EnigmaWeb
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CEJ9HFWJ94BG4
 Tags: popup, pop up, pop-up, lightbox, thickbox, lightbox popup
 Requires at least: 3.1
-Tested up to: 3.6
+Tested up to: 3.8.1
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -67,10 +67,16 @@ If you've tried all the obvious stuff and it's still not working please request 
 
 == Changelog ==
 
+= 1.1 =
+* Bug fix for cookies - thank you to wayra91 for this fix.
+
 = 1.0 =
 * Initial release
 
 == Upgrade Notice ==
+
+= 1.1 =
+* Bug fix for cookies - thank you to wayra91 for this fix.
 
 = 1.0 =
 * Initial release
